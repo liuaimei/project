@@ -1,0 +1,8 @@
+a = (i for i in range(1000))
+print(a.__next__())
+print(a.__next__())
+print(a.__next__())
+print(a.__next__())
+print(a.__next__())
+print(a.__next__())
+print(a.__next__())
